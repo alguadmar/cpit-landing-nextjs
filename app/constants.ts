@@ -67,3 +67,18 @@ export const clients = [
         comment: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus tempore earum eos iure nobis, quis aut dolorum autem! Aliquam, alias.'
     }
 ]
+
+export const services = [
+    {
+        title: 'Licenciatura - EXANI II',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam el curso de licenciatura es un curso planeado para los alumnos que se encuentran cursando la preparatoria y desdean ingresar a alguna de las universidades del pais que aplican el examen de ceneval. Este examen es uno de los mas dificiles de aprovar para los chicos de licenciatura y nuestro curso prepara a los alumnes completamente para su correcta aprovacion del examen y el cumplimiento de sus suenos.'
+    },
+    {
+        title: 'Preparatoria - EXANI I',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam el curso de licenciatura es un curso planeado para los alumnos que se encuentran cursando la preparatoria y desdean ingresar a alguna de las universidades del pais que aplican el examen de ceneval. Este examen es uno de los mas dificiles de aprovar para los chicos de licenciatura y nuestro curso prepara a los alumnes completamente para su correcta aprovacion del examen y el cumplimiento de sus suenos.'
+    },
+    {
+        title: 'Preguntas frecuentes',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam el curso de licenciatura es un curso planeado para los alumnos que se encuentran cursando la preparatoria y desdean ingresar a alguna de las universidades del pais que aplican el examen de ceneval. Este examen es uno de los mas dificiles de aprovar para los chicos de licenciatura y nuestro curso prepara a los alumnes completamente para su correcta aprovacion del examen y el cumplimiento de sus suenos.'
+    }
+]
