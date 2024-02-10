@@ -4,7 +4,7 @@ import { services } from "@/app/constants";
 
 const Servicios = ({ id }: { id: string }) => {
   return (
-    <section id={id} className="h-full">
+    <section id={id} className="mt-36 sm:mt-0">
       <p className="text-center font-semibold text-3xl mb-20">Servicios</p>
       {services.map((service) => (
         <Accordion variant="bordered" className="w-[75%] m-auto mt-5">

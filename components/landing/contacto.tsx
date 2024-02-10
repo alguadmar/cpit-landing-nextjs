@@ -12,7 +12,7 @@ import {
 
 const Contacto = ({ id }: { id?: string }) => {
   return (
-    <section id={id}>
+    <section className="w-screen" id={id}>
       <p className="text-center font-semibold text-3xl mb-10 mt-32">Contacto</p>
       <div className="flex w-[75%] m-auto flex-col">
         <Tabs aria-label="Options">
